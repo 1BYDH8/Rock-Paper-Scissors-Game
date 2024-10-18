@@ -52,13 +52,26 @@ Copy code
 
 **Example Gameplay**
 ```yaml
-Copy code
-Welcome to Rock-Paper-Scissors Game!
-Choose one: Rock (1), Paper (2), Scissors (3)
-
-Your choice: 1
-Computer chose: Scissors
-You win!
+                        -------------------------------------------------
+                                 Welcome to Rock, Paper and Scissors Game
+                        -------------------------------------------------
+                                 Note:
+                                         r - Rock
+                                         p - Paper
+                                         s - Scissor
+                                         q - Quit
+                        
+                        -------------------------------------------------
+                        Enter your choice: r
+                        Computer Choose:Scissor
+                        Your Choice is :Rock
+                        You won! Hurray
+                        Do you want to Play Again?
+                        Note: Press 'q' to exit! Press Anything to continue: q
+                        Quitting Game
+                        Come Back Later
+                        Thanks For Playing
+                        --------------------------------------------------
 ```
 
 ## Contributing
