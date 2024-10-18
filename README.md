@@ -40,14 +40,12 @@ cd Rock-Paper-Scissors-Game
 2. Compile the program:
 
 ```bash
-Copy code
-g++ main.cpp -o rps_game
+g++ rps.cpp -o rps
 ```
 3.Run the game:
 
 ```bash
-Copy code
-./rps_game
+./rps
 ```
 
 **Example Gameplay**
